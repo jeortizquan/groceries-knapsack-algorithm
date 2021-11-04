@@ -21,7 +21,7 @@ public class TestTools
 
 		assertEquals( "No products to buy.", Collections.emptyList(), solver.productsToBuy( 1, Collections.emptyList() ) );
 
-		for ( int requiredAmount = 5; requiredAmount < 30; requiredAmount++ )
+		for ( int requiredAmount = 1; requiredAmount < 30; requiredAmount++ )
 		{
 			System.out.print( "itemsToBuy( " + requiredAmount + " ): " );
 
