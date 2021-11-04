@@ -71,9 +71,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `jeortizquan`, `groceries-knapsack-algorithm`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `Shopping List of Groceries`, `Knapsack algorithm personalized`
+[![Product Name Screen Shot][product-screenshot]](images/screenshoot.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
