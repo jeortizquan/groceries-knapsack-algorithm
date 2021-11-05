@@ -1,21 +1,9 @@
+![Contributors][contributors-shield]
+![Forks][forks-shield]
+![Stargazers][stars-shield]
+![Issues][issues-shield]
+
 <div id="top"></div>
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/jeortizquan/groceries-knapsack-algorithm">
@@ -37,8 +25,6 @@
     <a href="https://github.com/jeortizquan/groceries-knapsack-algorithm/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -71,20 +57,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](./images/screenshoot.png)
+![Product Name Screen Shot](./images/screenshoot.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ### Built With
 
 * [Java](https://openjdk.java.net)
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -116,8 +97,6 @@ This is an example of how to list things you need to use the software and how to
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -126,8 +105,6 @@ This is an example of how to list things you need to use the software and how to
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -166,16 +143,12 @@ private
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
 ## Contact
 
 Project Link: [https://github.com/jeortizquan/groceries-knapsack-algorithm](https://github.com/jeortizquan/groceries-knapsack-algorithm)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -184,16 +157,10 @@ Project Link: [https://github.com/jeortizquan/groceries-knapsack-algorithm](http
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/jeortizquan/groceries-knapsack-algorithm.svg?style=for-the-badge
-[contributors-url]: https://github.com/jeortizquan/groceries-knapsack-algorithm/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/jeortizquan/groceries-knapsack-algorithm.svg?style=for-the-badge
 [forks-url]: https://github.com/jeortizquan/groceries-knapsack-algorithm/network/members
 [stars-shield]: https://img.shields.io/github/stars/jeortizquan/groceries-knapsack-algorithm.svg?style=for-the-badge
 [stars-url]: https://github.com/jeortizquan/groceries-knapsack-algorithm/stargazers
 [issues-shield]: https://img.shields.io/github/issues/jeortizquan/groceries-knapsack-algorithm.svg?style=for-the-badge
 [issues-url]: https://github.com/jeortizquan/groceries-knapsack-algorithm/issues
-[product-screenshot]: ./images/screenshot.png
