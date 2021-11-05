@@ -71,7 +71,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](images/screenshoot.png)
+[![Product Name Screen Shot][product-screenshot]](./images/screenshoot.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -196,4 +196,4 @@ Project Link: [https://github.com/jeortizquan/groceries-knapsack-algorithm](http
 [stars-url]: https://github.com/jeortizquan/groceries-knapsack-algorithm/stargazers
 [issues-shield]: https://img.shields.io/github/issues/jeortizquan/groceries-knapsack-algorithm.svg?style=for-the-badge
 [issues-url]: https://github.com/jeortizquan/groceries-knapsack-algorithm/issues
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: ./images/screenshot.png
